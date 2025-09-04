@@ -1,0 +1,3 @@
+- [ ] Fix typos in mentors.html (remove '极' characters)
+- [ ] Add responsive media queries to style.css for navbar visibility on mobile
+- [ ] Adjust font sizes in style.css to be responsive using clamp or media queries
